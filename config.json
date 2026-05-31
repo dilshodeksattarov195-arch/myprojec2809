@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpncrypt",
+        "uuid": 27839999,
+        "checksum": "tawato"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
